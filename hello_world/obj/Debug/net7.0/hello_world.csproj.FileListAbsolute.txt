@@ -1,0 +1,15 @@
+/home/rahman/C#/hello_world/bin/Debug/net7.0/hello_world
+/home/rahman/C#/hello_world/bin/Debug/net7.0/hello_world.deps.json
+/home/rahman/C#/hello_world/bin/Debug/net7.0/hello_world.runtimeconfig.json
+/home/rahman/C#/hello_world/bin/Debug/net7.0/hello_world.dll
+/home/rahman/C#/hello_world/bin/Debug/net7.0/hello_world.pdb
+/home/rahman/C#/hello_world/obj/Debug/net7.0/hello_world.csproj.AssemblyReference.cache
+/home/rahman/C#/hello_world/obj/Debug/net7.0/hello_world.GeneratedMSBuildEditorConfig.editorconfig
+/home/rahman/C#/hello_world/obj/Debug/net7.0/hello_world.AssemblyInfoInputs.cache
+/home/rahman/C#/hello_world/obj/Debug/net7.0/hello_world.AssemblyInfo.cs
+/home/rahman/C#/hello_world/obj/Debug/net7.0/hello_world.csproj.CoreCompileInputs.cache
+/home/rahman/C#/hello_world/obj/Debug/net7.0/hello_world.dll
+/home/rahman/C#/hello_world/obj/Debug/net7.0/refint/hello_world.dll
+/home/rahman/C#/hello_world/obj/Debug/net7.0/hello_world.pdb
+/home/rahman/C#/hello_world/obj/Debug/net7.0/hello_world.genruntimeconfig.cache
+/home/rahman/C#/hello_world/obj/Debug/net7.0/ref/hello_world.dll

@@ -1,0 +1,15 @@
+/home/rahman/C#/BTree/obj/Debug/net7.0/BTree.csproj.AssemblyReference.cache
+/home/rahman/C#/BTree/obj/Debug/net7.0/BTree.GeneratedMSBuildEditorConfig.editorconfig
+/home/rahman/C#/BTree/obj/Debug/net7.0/BTree.AssemblyInfoInputs.cache
+/home/rahman/C#/BTree/obj/Debug/net7.0/BTree.AssemblyInfo.cs
+/home/rahman/C#/BTree/obj/Debug/net7.0/BTree.csproj.CoreCompileInputs.cache
+/home/rahman/C#/BTree/bin/Debug/net7.0/BTree
+/home/rahman/C#/BTree/bin/Debug/net7.0/BTree.deps.json
+/home/rahman/C#/BTree/bin/Debug/net7.0/BTree.runtimeconfig.json
+/home/rahman/C#/BTree/bin/Debug/net7.0/BTree.dll
+/home/rahman/C#/BTree/bin/Debug/net7.0/BTree.pdb
+/home/rahman/C#/BTree/obj/Debug/net7.0/BTree.dll
+/home/rahman/C#/BTree/obj/Debug/net7.0/refint/BTree.dll
+/home/rahman/C#/BTree/obj/Debug/net7.0/BTree.pdb
+/home/rahman/C#/BTree/obj/Debug/net7.0/BTree.genruntimeconfig.cache
+/home/rahman/C#/BTree/obj/Debug/net7.0/ref/BTree.dll
