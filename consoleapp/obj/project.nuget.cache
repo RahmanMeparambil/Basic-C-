@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "7rinkZeE5jlhyL6iBtgJFoUMizxy7RLQ38mzhbzeeRpucUB6sb0omxnCAX/guFJ7HE3h4YyNREZQ8eI++f82jw==",
+  "success": true,
+  "projectFilePath": "/home/rahman/C#/consoleapp/consoleapp.csproj",
+  "expectedPackageFiles": [
+    "/home/rahman/.nuget/packages/microsoft.netcore.app.ref/7.0.2/microsoft.netcore.app.ref.7.0.2.nupkg.sha512",
+    "/home/rahman/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.2/microsoft.aspnetcore.app.ref.7.0.2.nupkg.sha512",
+    "/home/rahman/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.2/microsoft.netcore.app.host.linux-x64.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
